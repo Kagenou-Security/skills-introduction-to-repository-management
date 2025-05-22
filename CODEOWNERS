@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Kagenou-Security
+/src/backend/database.py      @Kagenou-Security
+/src/backend/routers/auth.py  @Kagenou-Security
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Kagenou-Security
